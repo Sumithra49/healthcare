@@ -3,13 +3,15 @@
 
 A responsive and pixel-perfect static healthcare dashboard built with React. This project visually replicates the design provided in the reference image with a focus on component structure, mock data rendering, and clean styling.
 
+![image](https://github.com/user-attachments/assets/29e904f5-a011-419f-82b3-8664bec50b71)
+![image](https://github.com/user-attachments/assets/f477b9c9-f6f3-4f47-97f1-3951c1889723)
 
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 **Hosted URL:** https://healthcare-drab-mu.vercel.app/ 
+🔗 **Hosted URL:** https://healthcare-drab-mu.vercel.app/ <br>
 🔗 **GitHub Repository:**https://github.com/Sumithra49/healthcare
 
 ---
@@ -56,9 +58,9 @@ All data is statically defined in `src/data/`:
 
 ## 🛠️ Technologies Used
 
-- **React** (with `create-react-app` or Vite)
+- **React** ( Vite)
 - **JavaScript (ES6+)**
-- **CSS** (or optional: CSS Modules / Styled Components)
+- **CSS** 
 - **Icon Libraries**: Font Awesome, Lucide React
 - **Responsive Design**: Media Queries, Flexbox, CSS Grid
 
@@ -74,15 +76,9 @@ The dashboard adapts to:
 
 ---
 
-## 📷 Assets
 
-All visual elements including icons and illustrations:
 
-- Open-source SVGs or licensed images
-- Placeholder assets if required
-- Ensure all images have proper `alt` text for accessibility
 
----
 
 ## 🧹 Code Quality
 
